@@ -8,5 +8,5 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 - 📫 [wijaya.suteja@binus.ac.id]
 
 ### 📫 Let's Connect with me!
-[![![sana 10th anniv photo](https://github.com/user-attachments/assets/4d65d708-7d0f-446d-a05b-961e42d5372a)]  [(https://x.com/sanapopbase/status/1970806984959312241/photo/1))] [https://www.linkedin.com/in/wijaya-pratama-suteja-a13619229/]]
+[[sana 10th anniv photo] [(https://x.com/sanapopbase/status/1970806984959312241/photo/1))] [https://www.linkedin.com/in/wijaya-pratama-suteja-a13619229/]]
 
