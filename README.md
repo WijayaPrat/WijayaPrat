@@ -1,14 +1,12 @@
-### 👋 Halo, perkenalkan saya Wijaya!
+### 👋 Hello, my name is Wijaya!
 
-Saya seorang mahasiswa di **Universitas Bina Nusantara** yang memiliki ketertarikan mendalam pada dunia teknologi, khususnya _Cloud Computing_ dan _Software Engineering_.
+I am a student at **Bina Nusantara University** who has a deep interest in the world of technology, especially _Cloud Computing_ and _Software Engineering_.
 
-- 🔭 Saat ini sedang fokus mendalami layanan **AWS** dan **Google Cloud Platform**.
-- 🌱 Belajar membuat aplikasi web yang scalable dengan **Node.js** dan **React**.
-- 👯 Saya mencari kesempatan untuk berkolaborasi dalam proyek open-source.
-- 📫 Hubungi saya melalui: [wijayapratamasuteja@gmail.com](wijaya.suteja@binus.ac.id)
+- 🔭 Currently studying software engineering and cloud computing.
+- 👯 I'm looking for opportunities to collaborate on open-source projects.
+- 📫 Contact me via: [wijayapratamasuteja@gmail.com]
+- 📫 [wijaya.suteja@binus.ac.id]
 
 ### 📫 Let's Connect with me!
+[![![sana 10th anniv photo](https://github.com/user-attachments/assets/4d65d708-7d0f-446d-a05b-961e42d5372a)]  [(https://x.com/sanapopbase/status/1970806984959312241/photo/1))] [https://www.linkedin.com/in/wijaya-pratama-suteja-a13619229/]]
 
-<p align="center">
-<img align="center" src="https://www.linkedin.com/in/wijaya-pratama-suteja-a13619229/" alt="GitHub Profile  WijayaPrat"/>
-</p>
