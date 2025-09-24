@@ -8,6 +8,6 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 - 📫 [wijaya.suteja@binus.ac.id]
 
 ### 📫 Let's Connect with me!
-[![sana 10th anniv photo](https://www.linkedin.com/in/wijaya-pratama-suteja-a13619229/)]
+[(https://www.linkedin.com/in/wijaya-pratama-suteja-a13619229/)]
 
 
