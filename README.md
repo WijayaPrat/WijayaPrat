@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Halo, perkenalkan saya Wijaya!
 
-<!--
-**WijayaPrat/WijayaPrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang mahasiswa di **Universitas Bina Nusantara** yang memiliki ketertarikan mendalam pada dunia teknologi, khususnya _Cloud Computing_ dan _Software Engineering_.
 
-Here are some ideas to get you started:
+- 🔭 Saat ini sedang fokus mendalami layanan **AWS** dan **Google Cloud Platform**.
+- 🌱 Belajar membuat aplikasi web yang scalable dengan **Node.js** dan **React**.
+- 👯 Saya mencari kesempatan untuk berkolaborasi dalam proyek open-source.
+- 📫 Hubungi saya melalui: [wijayapratamasuteja@gmail.com](wijaya.suteja@binus.ac.id)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect with me!
+
+<p align="center">
+<img align="center" src="https://www.linkedin.com/in/wijaya-pratama-suteja-a13619229/" alt="GitHub Profile  WijayaPrat"/>
+</p>
