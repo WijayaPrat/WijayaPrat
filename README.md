@@ -11,4 +11,6 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 ### 📫 Let's Connect with me!
 [(https://www.linkedin.com/in/wijaya-pratama-suteja-a13619229/)]
 
+[![WijayaPrat GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
