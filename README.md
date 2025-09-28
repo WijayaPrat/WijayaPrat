@@ -14,13 +14,20 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 
 # Hi there, I'm Wijaya 👋
 
-## 📊 GitHub Stats
 [![Wijaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=WijayaPrat&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/WijayaPrat/github-readme-stats)
 
-## 🔥 Top Languages
+## 🔥 Top Languages (Most Usage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WijayaPrat&layout=compact&theme=tokyonight)](https://github.com/WijayaPrat/github-readme-stats)
+
+### Custom Breakdown
+- **Java** ![#####](https://progress-bar.dev/75/?title=Java&width=200)
+- **HTML** ![#](https://progress-bar.dev/10/?title=HTML&width=200&color=orange)
+- **CSS** ![#](https://progress-bar.dev/5/?title=CSS&width=200&color=blue)
+- **JavaScript** ![#](https://progress-bar.dev/5/?title=JavaScript&width=200&color=yellow)
+- **Python** ![#](https://progress-bar.dev/5/?title=Python&width=200&color=green)
 
 ---
 ✨ Generated with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 ```
+`
 
