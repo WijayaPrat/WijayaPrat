@@ -19,11 +19,11 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WijayaPrat&layout=compact&theme=tokyonight)](https://github.com/WijayaPrat/github-readme-stats)
 
 ### 🛠️ skills
-- **Java** ![#####](https://progress-bar.dev/75/?title=Java&width=200)
-- **HTML** ![#](https://progress-bar.dev/10/?title=HTML&width=200&color=orange)
-- **CSS** ![#](https://progress-bar.dev/5/?title=CSS&width=200&color=blue)
-- **JavaScript** ![#](https://progress-bar.dev/5/?title=JavaScript&width=200&color=yellow)
-- **Python** ![#](https://progress-bar.dev/5/?title=Python&width=200&color=green)
+- **Java** 
+- **HTML** 
+- **CSS** 
+- **JavaScript** 
+- **Python** 
 
 ---
 ✨ Let's connect with me [GitHub Readme Stats](https://github.com/WijayaPrat/github-readme-stats)
