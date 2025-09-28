@@ -3,8 +3,6 @@
 I am a student at **Bina Nusantara University** who has a deep interest in the world of technology, especially _Cloud Computing_ and _Software Engineering_.
 
 
-
-
 - 🌱 Currently learning: software engineering and cloud computing.
 - 🎯 Interested in: fullstacks development, cloud computing, and cyber security
 - 💼 Internship Interest : back end development, Data Science, Data Analyst
@@ -14,9 +12,6 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 
 ### 📫 Let's Connect with me!
 [(https://www.linkedin.com/in/wijaya-pratama-suteja-a13619229/)]
-
-
-# Hi there, I'm Wijaya 👋
 
 [![Wijaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=WijayaPrat&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/WijayaPrat/github-readme-stats)
 
