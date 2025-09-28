@@ -11,6 +11,16 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 ### 📫 Let's Connect with me!
 [(https://www.linkedin.com/in/wijaya-pratama-suteja-a13619229/)]
 
-[![WijayaPrat GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+# Hi there, I'm Wijaya 👋
+
+## 📊 GitHub Stats
+[![Wijaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=WijayaPrat&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/WijayaPrat/github-readme-stats)
+
+## 🔥 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WijayaPrat&layout=compact&theme=tokyonight)](https://github.com/WijayaPrat/github-readme-stats)
+
+---
+✨ Generated with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+```
+
