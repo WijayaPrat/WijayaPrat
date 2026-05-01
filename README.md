@@ -1,6 +1,6 @@
 ### 👋 Hello, my name is Wijaya!
 
-I am a student at **Bina Nusantara University** who has a deep interest in the world of technology, especially _Cloud Computing_ and _Software Engineering_.
+I am a student at **Bina Nusantara University** who has a deep interest in the world of technology, especially _Cloud Computing_ and _data analyst.
 
 
 - 🌱 Currently learning: software engineering and cloud computing.
