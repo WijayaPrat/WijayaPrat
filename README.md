@@ -24,7 +24,8 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 - **CSS** 
 - **JavaScript** 
 - **Python** 
-
+- **SQL**
+- **Data Visualization : Tableau, Looker**
 ---
 ✨ Let's connect with me [GitHub Readme Stats](https://github.com/WijayaPrat/github-readme-stats)
 ```
