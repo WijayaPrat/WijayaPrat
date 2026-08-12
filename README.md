@@ -26,6 +26,7 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 - **Python** 
 - **SQL**
 - **Data Visualization : Tableau, Looker**
+- **Data Story Telling**
 ---
 ✨ Let's connect with me [GitHub Readme Stats](https://github.com/WijayaPrat/github-readme-stats)
 ```
