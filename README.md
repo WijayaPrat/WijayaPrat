@@ -4,7 +4,7 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 
 
 - 🌱 Currently learning: software engineering and cloud computing.
-- 🎯 Interested in: fullstacks development, cloud computing, IT Infrastructure, Data Science and cyber security
+- 🎯 Interested in: Data Analyst, fullstacks development, cloud computing, IT Infrastructure, and Data Science.
 - 💼 Internship Interest : back end development, Data Science, Data Analyst
 - ⚡ Fun fact: Still a beginner 
 - 📫 Contact me via: [wijayapratamasuteja@gmail.com]
