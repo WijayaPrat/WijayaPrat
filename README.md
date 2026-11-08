@@ -1,12 +1,12 @@
-### 👋 Hello, my name is Wijaya!
+### 👋 Hello, my name is jay!
 
 I am a student at **Bina Nusantara University** who has a deep interest in the world of technology, especially _Cloud Computing_ and _data analyst.
 
 
 - 🌱 Currently learning: software engineering and cloud computing.
-- 🎯 Interested in: Data Analyst, fullstacks development, cloud computing, IT Infrastructure, and Data Science.
+- 🎯 Interested in: Data Analyst, Business Analyst, and Data Science.
 - 💼 Internship Interest : back end development, Data Science, Data Analyst
-- ⚡ Fun fact: Still a beginner 
+- ⚡ Fun fact: i have 2 project from Data Analyst
 - 📫 Contact me via: [wijayapratamasuteja@gmail.com]
 - 📫 [wijaya.suteja@binus.ac.id]
 
@@ -19,10 +19,6 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WijayaPrat&layout=compact&theme=tokyonight)](https://github.com/WijayaPrat/github-readme-stats)
 
 ### 🛠️ skills
-- **Java** 
-- **HTML** 
-- **CSS** 
-- **JavaScript** 
 - **Python** 
 - **SQL**
 - **Data Visualization : Tableau, Looker**
