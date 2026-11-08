@@ -5,7 +5,7 @@ I am a student at **Bina Nusantara University** who has a deep interest in the w
 
 - 🌱 Currently learning: software engineering and cloud computing.
 - 🎯 Interested in: Data Analyst, Business Analyst, and Data Science.
-- 💼 Internship Interest : back end development, Data Science, Data Analyst
+- 💼 Internship Interest : Business Analyst, Data Science, Data Analyst
 - ⚡ Fun fact: i have 2 project from Data Analyst
 - 📫 Contact me via: [wijayapratamasuteja@gmail.com]
 - 📫 [wijaya.suteja@binus.ac.id]
